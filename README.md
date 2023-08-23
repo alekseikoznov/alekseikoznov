@@ -1,5 +1,5 @@
 ## Hi, my name is Aleksei Koznov :hand: 
-#### I am Python Developer with background in civil engineering. Mainly focused on Backend.
+#### I am a Python Developer with a background in civil engineering. Mainly focused on the Backend.
 
 ### My stack
 - Python, Django, FastAPI, Flask, Django REST Framework
